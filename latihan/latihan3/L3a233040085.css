@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: left;
+    font-family: Comic Sans MS;
+    color: darkblue;
+}
+
+.p1 {
+    text-align: left;
+    text-emphasis: right;
+}
+
+h4 {
+    text-align: right;
+    font-style: italic;
+}

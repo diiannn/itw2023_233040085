@@ -1,0 +1,54 @@
+body {
+    background-color: aqua;
+}
+
+.putih {
+    color: white;
+}
+
+
+h1 {
+    font-size: 60px;
+    text-align: left;
+    font-family: Comic Sans MS;
+}
+
+h4 {
+    text-align: right;
+    font-style: italic;
+}
+
+.p1 {
+    text-align: center;
+    color: rgb(238, 158, 53);
+}
+
+.p2 {
+    text-align: center;
+    line-height: 3ch;
+}
+
+.bgbiru {
+    color: darkblue;
+}
+
+a.bgbiru {
+    text-decoration: none;
+}
+
+a.bgbiru:hover {
+    text-decoration: none;
+}
+
+.biru {
+    color: darkblue;
+}
+
+.putih:hover {
+    color: red;
+}
+
+.bgbiru:hover {
+    background-color: darkblue;
+    color: white;
+}
